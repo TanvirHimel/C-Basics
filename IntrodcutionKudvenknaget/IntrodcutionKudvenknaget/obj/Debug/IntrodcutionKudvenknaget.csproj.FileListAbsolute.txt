@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\bin\Debug\IntrodcutionKudvenknaget.exe.config
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\bin\Debug\IntrodcutionKudvenknaget.exe
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\bin\Debug\IntrodcutionKudvenknaget.pdb
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\obj\Debug\IntrodcutionKudvenknaget.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\obj\Debug\IntrodcutionKudvenknaget.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\obj\Debug\IntrodcutionKudvenknaget.exe
+C:\Users\USER\source\repos\IntrodcutionKudvenknaget\IntrodcutionKudvenknaget\obj\Debug\IntrodcutionKudvenknaget.pdb
