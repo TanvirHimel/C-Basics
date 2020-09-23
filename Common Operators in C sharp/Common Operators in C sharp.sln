@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common Operators in C sharp", "Common Operators in C sharp\Common Operators in C sharp.csproj", "{BFBAAB60-6796-49C0-9FEF-B169C11E2CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBAAB60-6796-49C0-9FEF-B169C11E2CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBAAB60-6796-49C0-9FEF-B169C11E2CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBAAB60-6796-49C0-9FEF-B169C11E2CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBAAB60-6796-49C0-9FEF-B169C11E2CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A10EA9B-9716-4CAC-A545-C592C0481DA1}
+	EndGlobalSection
+EndGlobal
