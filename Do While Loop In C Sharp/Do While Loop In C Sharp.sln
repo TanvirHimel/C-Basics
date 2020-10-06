@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do While Loop In C Sharp", "Do While Loop In C Sharp\Do While Loop In C Sharp.csproj", "{02F25859-493E-41F9-B573-ACD2238C76C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F25859-493E-41F9-B573-ACD2238C76C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F25859-493E-41F9-B573-ACD2238C76C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F25859-493E-41F9-B573-ACD2238C76C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F25859-493E-41F9-B573-ACD2238C76C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52640C96-6542-40ED-A706-5D3337AAB9FD}
+	EndGlobalSection
+EndGlobal
