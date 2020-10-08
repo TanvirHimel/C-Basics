@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Classes in C Sharp", "Abstract Classes in C Sharp\Abstract Classes in C Sharp.csproj", "{41AC917F-415D-4716-A68C-7DE1C9AFC3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41AC917F-415D-4716-A68C-7DE1C9AFC3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AC917F-415D-4716-A68C-7DE1C9AFC3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AC917F-415D-4716-A68C-7DE1C9AFC3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AC917F-415D-4716-A68C-7DE1C9AFC3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5337F29B-992F-4470-8974-39B7E5C1E3E6}
+	EndGlobalSection
+EndGlobal
